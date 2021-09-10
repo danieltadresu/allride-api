@@ -11,8 +11,6 @@ Or
 
 - NVM(Node version manager) [Download & Install](https://github.com/nvm-sh/nvm "Download & Install Here")
 
----
-
 ## How to run?
 
 ### Development mode (Hot-reload)
