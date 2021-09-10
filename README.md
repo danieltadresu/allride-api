@@ -1,4 +1,4 @@
-# Difference between two points from the earth
+# Difference between point A (DISTRICT) and Plaza de Armas.
 
 ## Installation & Setup
 
